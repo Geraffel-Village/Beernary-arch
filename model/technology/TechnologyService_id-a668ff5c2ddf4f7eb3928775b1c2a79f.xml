@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Database"
+    id="id-a668ff5c2ddf4f7eb3928775b1c2a79f"
+    documentation="Maps token ID to user and what tap they have access to"/>
